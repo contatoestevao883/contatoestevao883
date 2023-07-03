@@ -1,4 +1,4 @@
-<img align="right" height="590em" 
+<img align="right" height="590em margin-bottom: 150px" 
   src="https://raw.githubusercontent.com/gist/contatoestevao883/fc8ff4f652718757494bc55191b049bd/raw/6661b5b48b21d4a43f254630f391612c528b505c/githubcard.svg">
 <h1 align="left">Hi , I'm Estevão Andrades</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contatoestevao883&color=blue" alt="Profile views" /> </p>
@@ -28,10 +28,4 @@
 <a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/contatoestevao883-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-<br><bv>
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
