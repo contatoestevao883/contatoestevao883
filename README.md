@@ -44,10 +44,14 @@
 
 
 
-<h2>More</h2>&nbsp;
+<h3>Contact</h3>
+
+<p>E-mail: contatoestevao883@hotmail.com</p>
 <a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/contatoestevao883-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>&nbsp
+</a>&nbsp;
+
+-------------------------------------------------------------
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=contatoestevao883&show_icons=true&locale=en&layout=compact" alt="contatoestevao883" /></p>
