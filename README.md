@@ -29,6 +29,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
 --------------------------------------------------------------
 
@@ -40,6 +41,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
 </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;
 
+
 --------------------------------------------------------------
 
 
@@ -47,9 +49,7 @@
 <h3>Contact</h3>
 
 <p>contatoestevao883@hotmail.com</p>
-<a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/contatoestevao883-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>&nbsp;
+<a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 -------------------------------------------------------------
 <table>
@@ -122,6 +122,20 @@
         <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 	      ➜
         <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7d757a48-f4ba-4c62-99e9-3d53d7723ee0" width=18px>  
+	<a href="https://github.com/contatoestevao883/DrivenPlus"><b>Driven.t</b></a></td>
+      <td> 
+        <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+	      ➜
+	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-B0B0B0?style=flat-square&logo=express&logoColor=black" />
+	        ➜
+	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-0950F3?style=flat-square&logo=postgresql&logoColor=white" />
+	       ➜
+	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
     </tr>
   </tbody>
