@@ -44,7 +44,7 @@
 
 
 
-## More
+More
 <a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/contatoestevao883-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>&nbsp
