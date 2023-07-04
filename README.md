@@ -9,7 +9,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-  
+
 --------------------------------------------------------------
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Back-end" alt="Typing SVG" /></a>&nbsp;
@@ -41,7 +41,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
 </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;
 
-
 --------------------------------------------------------------
 
 
@@ -51,6 +50,7 @@
 <p>contatoestevao883@hotmail.com</p>
 <a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
+<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7d757a48-f4ba-4c62-99e9-3d53d7723ee0" width=18px> I’m currently studying at [Driven Education](https://www.driven.com.br/)
 -------------------------------------------------------------
 <table>
   <thead align="center">
@@ -67,7 +67,6 @@
       </td>
       <td> 	      
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
       </td>
     </tr>
@@ -78,7 +77,6 @@
       </td>
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
       </td>
     </tr>
@@ -88,9 +86,7 @@
 	<a href="https://github.com/contatoestevao883/Parrots"><b>Parrots</b></a></td>
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
-	      ➜
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
       </td>
     </tr>
@@ -100,9 +96,7 @@
 	<a href="https://github.com/contatoestevao883/InstagramReact"><b>Fashion Driven</b></a></td>
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
-	      ➜
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
       </td>
     </tr>
@@ -120,7 +114,6 @@
 	<a href="https://github.com/contatoestevao883/DrivenPlus"><b>DrivenPlus</b></a></td>
       <td> 
         <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-	      ➜
         <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
       </td>
     </tr>
@@ -130,11 +123,8 @@
 	<a href="https://github.com/contatoestevao883/DrivenPlus"><b>Driven.t</b></a></td>
       <td> 
         <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-	      ➜
 	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-B0B0B0?style=flat-square&logo=express&logoColor=black" />
-	        ➜
 	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-0950F3?style=flat-square&logo=postgresql&logoColor=white" />
-	       ➜
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
     </tr>
