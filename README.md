@@ -62,47 +62,65 @@
   <tbody>
     <tr>
       <td>
-         <img src="https://prnt.sc/t6qBaB5n9N7N">
-        <a href="https://github.com/contatoestevao883/Globo.com"><b>Globo.com</b></a>
+         <img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/e7d74460-f39a-49b1-bc6a-0acca09f0cee)" width=18px>
+	<a href="https://github.com/contatoestevao883/Globo.com"><b>Globo.com</b></a>
       </td>
-      <td> 
+      <td> 	      
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
-      </td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/contatoestevao883/Instagram"><b>Instagram</b></a></td>
-      <td> 
-        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/contatoestevao883/Parrots"><b>Parrots</b></a></td>
+      <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/10d8b82d-3d38-4d04-bc92-566ae5635197" width=18px>
+	<a href="https://github.com/contatoestevao883/Instagram"><b>Instagram</b></a>
+      </td>
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/74fae8c1-19c0-453f-85b6-8e9b506b5552" width=18px>
+	<a href="https://github.com/contatoestevao883/Parrots"><b>Parrots</b></a></td>
+      <td> 
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	      ➜
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+	      ➜
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/contatoestevao883/InstagramReact"><b>Fashion Driven</b></a></td>
+      <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/e103f88a-b913-4bc6-af0d-09f9353fd0b9" width=18px>
+	<a href="https://github.com/contatoestevao883/InstagramReact"><b>Fashion Driven</b></a></td>
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	      ➜
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+	      ➜
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/contatoestevao883/InstagramReact"><b>InstagramReact</b></a></td>
+      <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/453e25c6-d459-415d-8d56-679a2ae3c4fc" width=18px>  
+	<a href="https://github.com/contatoestevao883/InstagramReact"><b>InstagramReact</b></a></td>
       <td> 
         <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/contatoestevao883/DrivenPlus"><b>DrivenPlus</b></a></td>
+      <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7b4f3cec-ac6c-4c9c-a959-6ff27e8e2010" width=18px>  
+	<a href="https://github.com/contatoestevao883/DrivenPlus"><b>DrivenPlus</b></a></td>
       <td> 
         <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+	      ➜
         <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
       </td>
     </tr>
