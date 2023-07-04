@@ -82,6 +82,16 @@
     </tr>
     <tr>
       <td>
+	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/c5d3a3c3-e378-429f-982b-804688b60757" width=18px>
+	<a href="https://github.com/contatoestevao883/DrivenEats"><b>DrivenEats</b></a></td>
+      <td> 
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
 	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/74fae8c1-19c0-453f-85b6-8e9b506b5552" width=18px>
 	<a href="https://github.com/contatoestevao883/Parrots"><b>Parrots</b></a></td>
       <td> 
