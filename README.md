@@ -44,10 +44,10 @@
 
 
 
-Contact
+## More
 <a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/contatoestevao883-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+</a>&nbsp
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=contatoestevao883&show_icons=true&locale=en&layout=compact" alt="contatoestevao883" /></p>
