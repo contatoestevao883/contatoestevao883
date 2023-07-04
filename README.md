@@ -103,7 +103,7 @@
     <tr>
       <td>
 	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/e103f88a-b913-4bc6-af0d-09f9353fd0b9" width=18px>
-	<a href="https://github.com/contatoestevao883/InstagramReact"><b>Fashion Driven</b></a></td>
+	<a href="https://github.com/contatoestevao883/FashionDriven"><b>Fashion Driven</b></a></td>
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
