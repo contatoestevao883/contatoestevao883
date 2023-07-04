@@ -52,7 +52,62 @@
 </a>&nbsp;
 
 -------------------------------------------------------------
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 🏁 Projects</b></td>
+      <td><b> 💻 Technologies </b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+         <img src="https://prnt.sc/t6qBaB5n9N7N">
+        <a href="https://github.com/contatoestevao883/Globo.com"><b>Globo.com</b></a>
+      </td>
+      <td> 
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+      </td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/contatoestevao883/Instagram"><b>Instagram</b></a></td>
+      <td> 
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/contatoestevao883/Parrots"><b>Parrots</b></a></td>
+      <td> 
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/contatoestevao883/InstagramReact"><b>Fashion Driven</b></a></td>
+      <td> 
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A5770A?style=flat-square&logo=javascript&logoColor=white%22"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/contatoestevao883/InstagramReact"><b>InstagramReact</b></a></td>
+      <td> 
+        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/contatoestevao883/DrivenPlus"><b>DrivenPlus</b></a></td>
+      <td> 
+        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=contatoestevao883&show_icons=true&locale=en&layout=compact" alt="contatoestevao883" /></p>
 
