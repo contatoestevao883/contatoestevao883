@@ -135,7 +135,6 @@
       <td> 
         <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-B0B0B0?style=flat-square&logo=express&logoColor=black" />
-	<img alt="PostSQL" src="https://img.shields.io/badge/-PostgreSQL-0950F3?style=flat-square&logo=postgresql&logoColor=white" />
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
     </tr>
@@ -145,7 +144,7 @@
       <td> 
         <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-B0B0B0?style=flat-square&logo=express&logoColor=black" />
-	<img alt="PostSQL" src="https://img.shields.io/badge/-PostgreSQL-0950F3?style=flat-square&logo=postgresql&logoColor=white" />
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0950F3?style=flat-square&logo=postgresql&logoColor=white" />
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
     </tr>
