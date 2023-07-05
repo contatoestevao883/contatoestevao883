@@ -87,7 +87,7 @@
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1F56D?style=flat-square&logo=javascript&logoColor=white%22"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1F56D?style=flat-square&logo=javascript&logoColor=black%22"/>
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1F56D?style=flat-square&logo=javascript&logoColor=white%22"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1F56D?style=flat-square&logo=javascript&logoColor=black%22"/>
       </td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@
       <td> 
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2C6BA5?style=flat-square&logo=css3&logoColor=white%22"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1F56D?style=flat-square&logo=javascript&logoColor=white%22"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F1F56D?style=flat-square&logo=javascript&logoColor=black%22"/>
       </td>
     </tr>
     <tr>
