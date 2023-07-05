@@ -124,7 +124,7 @@
 	<a href="https://github.com/contatoestevao883/DrivenPlus"><b>DrivenPlus</b></a></td>
       <td> 
         <img alt="React" src="https://img.shields.io/badge/-React-081F37?style=flat-square&logo=react&logoColor=white" />
-        <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+        <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=black" />
       </td>
     </tr>
     <tr>
