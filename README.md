@@ -123,7 +123,7 @@
 	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7b4f3cec-ac6c-4c9c-a959-6ff27e8e2010" width=18px>  
 	<a href="https://github.com/contatoestevao883/DrivenPlus"><b>DrivenPlus</b></a></td>
       <td> 
-        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/-React-081F37?style=flat-square&logo=react&logoColor=white" />
         <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
       </td>
     </tr>
@@ -135,7 +135,7 @@
       <td> 
         <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=white" />
-	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+	<img alt="React" src="https://img.shields.io/badge/-React-081F37?style=flat-square&logo=react&logoColor=white" />
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
     </tr>
