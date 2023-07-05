@@ -115,7 +115,7 @@
 	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/453e25c6-d459-415d-8d56-679a2ae3c4fc" width=18px>  
 	<a href="https://github.com/contatoestevao883/InstagramReact"><b>InstagramReact</b></a></td>
       <td> 
-        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/-React-081F37?style=flat-square&logo=react&logoColor=white" />
       </td>
     </tr>
     <tr>
