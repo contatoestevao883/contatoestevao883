@@ -59,7 +59,7 @@
 	</a>
 </div>
 
-I'm currently studying Full Stack Web Development through Driven Education Bootcamp
+I'm currently studying Full Stack Web Development at Driven Education Bootcamp
 -------------------------------------------------------------
 <table>
   <thead align="center">
