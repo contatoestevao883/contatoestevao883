@@ -46,9 +46,14 @@
 
 
 <h3>📫 How to reach me</h3
-
-<p>contatoestevao883@hotmail.com</p>
-<a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<div>
+	<a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
+	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a> 
+	<a href = "mailto:contatoestevao883@gmail.com" target="_blank">
+	    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+	</a>
+</div>
 
 <img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7d757a48-f4ba-4c62-99e9-3d53d7723ee0" width=18px> I’m currently studying at [Driven Education](https://www.driven.com.br/)
 -------------------------------------------------------------
