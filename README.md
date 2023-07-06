@@ -51,7 +51,7 @@
 
 <h3>📫 How to reach me</h3
 <div>
-	<a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank">
+	<a href="www.linkedin.com/in/contatoestevao883" target="_blank">
 	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a> 
 	<a href = "mailto:contatoestevao883@gmail.com" target="_blank">
