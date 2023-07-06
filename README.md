@@ -160,10 +160,3 @@ I'm currently studying Full Stack Web Development at Driven Education Bootcamp
     </tr>
   </tbody>
 </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=contatoestevao883&show_icons=true&locale=en&layout=compact" alt="contatoestevao883" /></p>
-
-
-
-
-
