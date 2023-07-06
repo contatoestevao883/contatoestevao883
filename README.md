@@ -55,7 +55,7 @@
 	</a>
 </div>
 
-<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7d757a48-f4ba-4c62-99e9-3d53d7723ee0" width=18px> I’m currently studying at [Driven Education](https://www.driven.com.br/)
+<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7d757a48-f4ba-4c62-99e9-3d53d7723ee0" width=18px> I'm currently studying Full Stack Web Development through Driven Education Bootcamp [Driven Education](https://www.driven.com.br/)
 -------------------------------------------------------------
 <table>
   <thead align="center">
