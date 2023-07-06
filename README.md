@@ -45,7 +45,7 @@
 
 
 
-<h3>How to reach me 📫</h3
+<h3>📫 How to reach me</h3
 
 <p>contatoestevao883@hotmail.com</p>
 <a href="https://www.linkedin.com/in/estev%C3%A3o-andrades-3243b5230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
