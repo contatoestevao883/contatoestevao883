@@ -141,9 +141,7 @@ I'm currently studying Full Stack Web Development at Driven Education Bootcamp
       <td>
 	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/77f0e576-ccbd-43ed-ac2b-a4a3f787a769" width=18px>  
 	<a href="https://github.com/contatoestevao883/KenzieHub"><b>KenzieHub</b></a></td>
-      <td> 
-        <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=black" />
+      <td>
 	<img alt="React" src="https://img.shields.io/badge/-React-081F37?style=flat-square&logo=react&logoColor=white" />
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
