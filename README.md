@@ -51,12 +51,11 @@
 
 <h3>📫 How to reach me</h3
 <div>
-	<a href="https://www.linkedin.com/in/contatoestevao883/" target="_blank">
+	<a href="https://www.linkedin.com/in/estevao-andrades/" target="_blank">
 	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	</a> 
-	<a href = "mailto:contatoestevao883@gmail.com" target="_blank">
-	    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 	</a>
+        <h4>📧 E-mail: contatoestevao883@hotmail.com </h4>
+        <h4>📱Phone: +55 (51) 98037-8557 </h4>
 </div>
 
 I'm a Full Stack Developer 
@@ -146,15 +145,6 @@ I'm a Full Stack Developer
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </td>
     </tr>
-      <td>
-	<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/7d757a48-f4ba-4c62-99e9-3d53d7723ee0" width=18px>  
-	<a href="https://github.com/Driven-T10-Driven-t-Full-Stack"><b>Driven.t</b></a></td>
-      <td> 
-        <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-	<img alt="ExpressJs" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=black" />
-	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0950F3?style=flat-square&logo=postgresql&logoColor=white" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      </td>
     </tr>
   </tbody>
 </table>
