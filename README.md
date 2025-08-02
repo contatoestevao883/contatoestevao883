@@ -55,7 +55,7 @@
 	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
         <h4>📧 E-mail: contatoestevao883@hotmail.com </h4>
-        <h4>📱Phone: +55 (51) 98037-8557 </h4>
+        <h4>📱 Phone: +55 (51) 98037-8557 </h4>
 </div>
 
 I'm a Full Stack Developer 
