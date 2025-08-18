@@ -52,7 +52,7 @@
 
 <h2> 📫 How to reach me: </h2>
 <div>
-        <h4>📧 HOTMAIL: contatoestevao883@hotmail.com </h4>
+        <h4>📧 E-mail: contatoestevao883@hotmail.com </h4>
 </div>
 
 --------------------------------------------------------------
