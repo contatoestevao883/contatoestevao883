@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey there! </h1>
 
-<h2 'I'm a Full Stack Web Developer (Certificated by Kenzie Academy Brasil and Driven Education Bootcamp)' </h2>
+<h2> 'I'm a Full Stack Web Developer (Certificated by Kenzie Academy Brasil and Driven Education Bootcamp)' </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contatoestevao883&color=blue" alt="Profile views" /> </p>
 
@@ -52,16 +52,12 @@
 
 
 
-<h3>📫 How to reach me</h3
+<h3>📫 How to reach me:</h3
 <div>
-	<a href="https://www.linkedin.com/in/estevao-andrades/" target="_blank">
-	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	</a>
         <h4>📧 E-mail: contatoestevao883@hotmail.com </h4>
         <h4>📱 Phone: +55 (51) 98037-8557 </h4>
 </div>
 
-I'm a Full Stack Developer 
 -------------------------------------------------------------
 <table>
   <thead align="center">
