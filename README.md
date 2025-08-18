@@ -1,4 +1,7 @@
-<h1 align="left">Hey there 👋 I'm a Full Stack Web Developer (Certificated by Kenzie Academy Brasil and Driven Education Bootcamp) </h1>
+<h1 align="left">👋 Hey there! </h1>
+
+<h2 I'm a Full Stack Web Developer (Certificated by Kenzie Academy Brasil and Driven Education Bootcamp) </h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contatoestevao883&color=blue" alt="Profile views" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Front-end" alt="Typing SVG" /></a>&nbsp;
