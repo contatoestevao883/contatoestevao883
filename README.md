@@ -2,6 +2,8 @@
 
 <h3> I'm a Full Stack Web Developer certificated by Kenzie Academy Brasil and Driven Education </h3>
 
+--------------------------------------------------------------
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Front-end" alt="Typing SVG" /></a>&nbsp;
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
