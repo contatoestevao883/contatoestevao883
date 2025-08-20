@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey there! </h1>
 
-<h3> I'm a Full Stack Web Developer certificated by Kenzie Academy Brasil and Driven Education </h3>
+<h3> I'm a Front End Developer certificated by Kenzie Academy Brasil and Driven Education </h3>
 
 --------------------------------------------------------------
 
