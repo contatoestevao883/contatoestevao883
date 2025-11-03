@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey there! </h1> 
 
-<h3> I'm Estevão, a Full Stack Developer certified by Kenzie Academy Brasil and Driven Education Bootcamp. </h3> 
+<h3> I'm Estevão, a Full Stack Developer certified by Kenzie Academy and Driven Education Bootcamp. </h3> 
 <h3> Passionate about building dynamic and responsive web applications, combining both front-end and back-end development with React and Node.js. </h3>
 
 --------------------------------------------------------------
@@ -33,8 +33,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" />
 
 --------------------------------------------------------------
 
