@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hey there! </h1> 
 
 <h3> I'm Estevão, a Full Stack Developer certified by Kenzie Academy and Driven Education Bootcamp. </h3> 
-<h3> Passionate about building dynamic and responsive web applications, combining both front-end and back-end development with React and Node.js. </h3>
+<h3> Passionate about building dynamic and responsive web applications, combining both front-end and back-end development with React and Node.js and C#. </h3>
 
 --------------------------------------------------------------
 
